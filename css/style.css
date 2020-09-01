@@ -11,9 +11,16 @@ meta{
 }
 
 body{
-  overflow-x:hidden;
+  overflow-x:hidden !important;
+  
 }
 
+@media (max-width:650px){
+body{
+overflow-x:hidden; 
+overflow: hidden;
+}
+  }
 
 /* Background Wallpaper Image*/
 
