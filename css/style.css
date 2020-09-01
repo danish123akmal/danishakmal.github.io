@@ -11,8 +11,8 @@ meta{
 }
 
 body{
-  overflow-x:hidden;
-  margin-right:hidden;
+  overflow-x:hidden !important;
+  
 }
 
 
